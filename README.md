@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on JPA Project
-- 🌱 I’m currently learning Web Socket
+- 🔭 I’m currently studing for backend engineer
+- 🌱 I’m currently doing project about recommendation system(Item-based Filtering)
 
 ![go95305's GitHub stats](https://github-readme-stats.vercel.app/api?username=go95305)
 
