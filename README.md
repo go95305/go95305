@@ -1,5 +1,6 @@
-- 🔭 I’m currently studing for backend engineer
-- 🌱 I’m currently doing project about recommendation system(Item-based Filtering)
+- :books: I’m currently studying at Samsung Software Academy For Youth(SSAFY) 
+- ~~🌱 I’m currently doing project about recommendation system(Item-based Filtering)​ ​​~~
+- :boom: Currently doing project with Shinhan bank(Opensource license validation)
 
 ![go95305's GitHub stats](https://github-readme-stats.vercel.app/api?username=go95305)
 
