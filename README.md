@@ -42,5 +42,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+
+<h3 align="center"> 🧡 It's Me 🧡 </h3>
+<p align="center">
+  <a href="https://koyuchang.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@buri-1029"/></a>&nbsp
+</p>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/유창-고-423531201/)](https://http://linkedin.com/in/유창-고-423531201/)
