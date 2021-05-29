@@ -39,6 +39,14 @@
 <br/>
 <br/>
 
+<h3 align="center">
+    <a href="https://www.notion.so/SW-da6dabe5bbed47609081314b35943766" style="color: black; text-decoration: none;"> 
+	View Resume
+    </a>
+</h3>
+
+<br>
+
 <h3 align="center"> 🧡 It's Me 🧡 </h3>
 
 
