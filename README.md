@@ -1,6 +1,6 @@
 ## Introduction
 
-- :books: I’m currently studying at Samsung Software Academy For Youth(SSAFY) 
+- ~~:books: I’m currently studying at Samsung Software Academy For Youth(SSAFY)~~
 - ~~🌱 I’m currently doing project about recommendation system(latent factor Collaborative Filtering &-Contents based Filtering)​ ​​~~
 - ~~:boom: Currently doing project with Shinhan bank(Opensource license validation)~~
 <br/>
