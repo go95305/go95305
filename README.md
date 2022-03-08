@@ -43,29 +43,6 @@
 <br/>
 <br/>
 
-## My Resume
-
-<h3 align="center">
-    <a href="https://www.notion.so/SW-da6dabe5bbed47609081314b35943766" style="color: black; text-decoration: none;"> 
-	View Resume
-    </a>
-</h3>
-
-<br>
-
-<h3 align="center"> 🧡 It's Me 🧡 </h3>
-
-
-## SNS & Blog
-
-
-<div align=center>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/유창-고-423531201/)](https://www.linkedin.com/in/유창-고-423531201/)
-  <a href="https://koyuchang.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://koyuchang.tistory.com/"/></a>
-</div>
-<br/>
-
 
 ## Github Stats
 
